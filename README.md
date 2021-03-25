@@ -2,17 +2,6 @@
 
 <p align="left"> <img src="https://i.ibb.co/BrjN8HC/me-face.png" alt="Isaac" /> </p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on iOS Development
-- 🌱 I’m currently learning CoreML and Machine learning
-- 👯 I’m looking to collaborate on GitHub
-- 🤔 I’m looking for help with Web development
-- 💬 Ask me about anything
-- 📫 How to reach me: +55 85 999955681
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: I play basket very bad
-
 <a href="https://twitter.com/@IsaacCavalcant3">
 <img align="left" alt="Isaac's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -34,6 +23,17 @@ Here are some ideas to get you started:
 <a href="https://www.youtube.com/channel/UCPRNYlpwhtJOnMq3rlnXtKQ">
   <img align="left" alt="Isaac's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on iOS Development
+- 🌱 I’m currently learning CoreML and Machine learning
+- 👯 I’m looking to collaborate on GitHub
+- 🤔 I’m looking for help with Web development
+- 💬 Ask me about anything
+- 📫 How to reach me: +55 85 999955681
+- 😄 Pronouns: He/His
+- ⚡ Fun fact: I play basket very bad
 
 [![Twitter: IsaacCavalcant3](https://img.shields.io/twitter/follow/IsaacCavalcant3?style=social)](https://twitter.com/IsaacCavalcant3)
 [![Linkedin: Isaac-Cavalcante-044375A1](https://img.shields.io/badge/-Isaac-Cavalcante-044375A1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Isaac-Cavalcante-044375A1/)](https://www.linkedin.com/in/Isaac-Cavalcante-044375A1/)
