@@ -37,7 +37,7 @@
 - ⚡ Fun fact: I play basket very bad
 
 [![Twitter: IsaacCavalcant3](https://img.shields.io/twitter/follow/IsaacCavalcant3?style=social)](https://twitter.com/IsaacCavalcant3)
-[![Linkedin: Isaac Cavalcante](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Isaac-Cavalcante-044375A1/)](https://linkedin.com/in/Isaac-Cavalcante-044375A1)
+[![Linkedin: Isaac Cavalcante](https://img.shields.io/badge/-Isaac%20Cavalcante-%23007ec6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Isaac-Cavalcante-044375A1/)](https://linkedin.com/in/Isaac-Cavalcante-044375A1)
 [![GitHub IsaacCavalcante](https://img.shields.io/github/followers/IsaacCavalcante?label=follow&style=social)](https://github.com/IsaacCavalcante)
 [![website](https://img.shields.io/badge/PortfolioWebsite-isaaccavalcante.netlify.app-2648ff?style=flat-square&logo=google-chrome)](https://isaaccavalcante.netlify.app/)
 
