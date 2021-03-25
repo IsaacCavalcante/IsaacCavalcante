@@ -35,9 +35,9 @@ Here are some ideas to get you started:
   <img align="left" alt="Isaac's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-[![Twitter: imthepk](https://img.shields.io/twitter/follow/IsaacCavalcant3?style=social)](https://twitter.com/IsaacCavalcant3)
-[![Linkedin: imthepk](https://img.shields.io/badge/-Isaac-Cavalcante-044375A1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Isaac-Cavalcante/)](https://www.linkedin.com/in/Isaac-Cavalcante-044375A1/)
-[![GitHub iampawan](https://img.shields.io/github/followers/IsaacCavalcante?label=follow&style=social)](https://github.com/IsaacCavalcante)
+[![Twitter: IsaacCavalcant3](https://img.shields.io/twitter/follow/IsaacCavalcant3?style=social)](https://twitter.com/IsaacCavalcant3)
+[![Linkedin: Isaac-Cavalcante-044375A1](https://img.shields.io/badge/-Isaac-Cavalcante-044375A1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Isaac-Cavalcante-044375A1/)](https://www.linkedin.com/in/Isaac-Cavalcante-044375A1/)
+[![GitHub IsaacCavalcante](https://img.shields.io/github/followers/IsaacCavalcante?label=follow&style=social)](https://github.com/IsaacCavalcante)
 [![website](https://img.shields.io/badge/PortfolioWebsite-isaaccavalcante.netlify.app-2648ff?style=flat-square&logo=google-chrome)](https://isaaccavalcante.netlify.app/)
 
 **Work with:**  
