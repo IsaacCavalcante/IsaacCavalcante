@@ -24,7 +24,8 @@
   <img align="left" alt="Isaac's Youtube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
 </a>
 
-Here are some ideas to get you started:
+<br/>
+<br/>
 
 - 🔭 I’m currently working on iOS Development
 - 🌱 I’m currently learning CoreML and Machine learning
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I play basket very bad
 
 [![Twitter: IsaacCavalcant3](https://img.shields.io/twitter/follow/IsaacCavalcant3?style=social)](https://twitter.com/IsaacCavalcant3)
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://linkedin.com/in/Isaac-Cavalcante-044375A1)
+[![Linkedin: Isaac Cavalcante](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://linkedin.com/in/Isaac-Cavalcante-044375A1)
 [![GitHub IsaacCavalcante](https://img.shields.io/github/followers/IsaacCavalcante?label=follow&style=social)](https://github.com/IsaacCavalcante)
 [![website](https://img.shields.io/badge/PortfolioWebsite-isaaccavalcante.netlify.app-2648ff?style=flat-square&logo=google-chrome)](https://isaaccavalcante.netlify.app/)
 
