@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: I play basket very bad
 
 <a href="https://twitter.com/@IsaacCavalcant3">
-  <img align="left" alt="Isaac's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <i class="fab fa-twitter"></i>
 </a>
 <a href="https://linkedin.com/in/Isaac-Cavalcante-044375A1">
   <img align="left" alt="Isaac's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
