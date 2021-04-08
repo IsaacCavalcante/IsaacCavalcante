@@ -28,13 +28,13 @@
 <br/>
 
 - 🔭 I’m currently working on iOS Development
-- 🌱 I’m currently learning CoreML and Machine learning
+- 🌱 I’m currently learning CoreML, CreateML and Machine learning
 - 👯 I’m looking to collaborate on GitHub
 - 🤔 I’m looking for help with Web development
 - 💬 Ask me about anything
 - 📫 How to reach me: +55 85 999955681
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I play basket very bad
+- ⚡ Fun fact: I play basket very bad, but wish to play again :(
 
 [![Twitter: IsaacCavalcant3](https://img.shields.io/twitter/follow/IsaacCavalcant3?style=social)](https://twitter.com/IsaacCavalcant3)
 [![Linkedin: Isaac Cavalcante](https://img.shields.io/badge/-Isaac%20Cavalcante-%23007ec6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Isaac-Cavalcante-044375A1/)](https://linkedin.com/in/Isaac-Cavalcante-044375A1)
