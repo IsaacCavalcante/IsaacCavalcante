@@ -1,4 +1,4 @@
-## Hola, I'm [Isaac Cavalcante!](https://isaaccavalcante.netlify.app/) 👋
+## Hello, I'm [Isaac Cavalcante!](https://isaaccavalcante.netlify.app/) 👋
 
 <p align="left"> <img src="https://i.ibb.co/BrjN8HC/me-face.png" alt="Isaac" /> </p>
 
