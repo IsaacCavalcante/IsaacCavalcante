@@ -34,7 +34,7 @@
 - 💬 Ask me about anything
 - 📫 How to reach me: +55 85 999955681
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: I play basket very bad, but wish to play again :(
+- ⚡ Fun fact: I play basket and pratice Jiu Jitsu
 
 [![Twitter: IsaacCavalcant3](https://img.shields.io/twitter/follow/IsaacCavalcant3?style=social)](https://twitter.com/IsaacCavalcant3)
 [![Linkedin: Isaac Cavalcante](https://img.shields.io/badge/-Isaac%20Cavalcante-%23007ec6?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/Isaac-Cavalcante-044375A1/)](https://linkedin.com/in/Isaac-Cavalcante-044375A1)
